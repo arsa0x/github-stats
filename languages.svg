@@ -134,37 +134,37 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 90.099%;
+  width: 90.120%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 2.324%;
+  width: 2.320%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 2.083%;
+  width: 2.078%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 1.339%;
+  width: 1.337%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 1.170%;
+  width: 1.167%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.778%;
+  width: 0.776%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 0.527%;
+  width: 0.526%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.399%;
+  width: 0.398%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.294%;
+  width: 0.293%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.230%;
+  width: 0.229%;
 " class="progress-item"></span><span style="
   background-color: #ff5a03; 
-  width: 0.218%;
+  width: 0.217%;
 " class="progress-item"></span><span style="
   background-color: #ff3e00; 
   width: 0.142%;
@@ -245,7 +245,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">90.10%</span>
+  <span class="percent">90.12%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
